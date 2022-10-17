@@ -14,20 +14,20 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read message
-global.autobio = false
+global.autobio = true
 global.userRegister = false 
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
 //You can request others language 
-global.language = indonesia //change indonesia to english if you don't understand the language used by the bot
+global.language = english //change indonesia to english if you don't understand the language used by the bot
 
 
 // Other
 // Other
-global.botname = "Mitsuha-Mdོ" //namabot kalian
-global.ownername= "Lakshan" //nama kalian
+global.botname = "HONEY-Mdོ" //namabot kalian
+global.ownername= "tzuyu" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee" //bebas
